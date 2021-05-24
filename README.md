@@ -20,4 +20,7 @@ In the first analysis for 'Theater outcomes based on launch date', I created a p
 ## What are some possible tables and/or graphs that we could create?
     
   N/a. The tables/graphs used were appropriate for understanding the data.
+  
+  Excel file: [~$Kickstarter_Challenge.xlsx](https://github.com/Laurad821/01_excel/files/6535145/Kickstarter_Challenge.xlsx)
+
     
